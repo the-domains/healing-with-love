@@ -1,0 +1,28 @@
+name: Healing with Love
+favicon: null
+layout_spectrum: 0.05169291025958955
+typography_spectrum: 0.49968312005512416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.65911207604222
+  lightness: 0.935624168952927
+  saturation: 0.8259298678021878
+  rhythmicContrast: 0.43836830416694283
+purpose: []
