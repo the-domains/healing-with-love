@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Healing with Love]]></title>
+        <description><![CDATA[Healing with Love]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 21:52:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Love and Compassion]]></title>
+            <description><![CDATA[<article><h1>Love and Compassion</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a416af90eb69fe08526ac2d648cf2a7a4ed0438a.jpg"></article>]]></description>
+            <link>undefinedlove-and-compassion/index.html</link>
+            <guid isPermaLink="false">fda77890-782c-4afa-8448-873f70310e06</guid>
+            <pubDate>Sat, 02 Jan 2016 21:51:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
